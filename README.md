@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello, I am Shane I am in Game Design class
